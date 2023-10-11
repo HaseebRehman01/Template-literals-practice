@@ -27,10 +27,10 @@
 
 // es6
 // linebreak and spaces 
-var a = "haseeb"
-var b= "ur rehman"
-var s = `hello
-        ${a} 
-               ${b}`
-document.write(s)
-                      console.log(s)
+// var a = "haseeb"
+// var b= "ur rehman"
+// var s = `hello
+//         ${a} 
+//                ${b}`
+// document.write(s)
+//                       console.log(s)
